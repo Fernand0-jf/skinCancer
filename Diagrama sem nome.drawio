@@ -1,9 +1,48 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:139.0) Gecko/20100101 Firefox/139.0" version="27.1.4">
   <diagram name="Página-1" id="eIGuMpqLT00ghzYFgmRL">
-    <mxGraphModel>
+    <mxGraphModel dx="703" dy="477" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="QIGf7Q8Ob2mPMO-0KhZR-1" value=" Capturar Imagem da Lesão" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="300" y="290" width="90" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="QIGf7Q8Ob2mPMO-0KhZR-2" value="Paciente" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="60" y="115" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="QIGf7Q8Ob2mPMO-0KhZR-5" value="Tratar Imagem" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="290" y="30" width="95" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="QIGf7Q8Ob2mPMO-0KhZR-6" value=" Enviar Imagem para Análise" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="280" y="100" width="120" height="55" as="geometry" />
+        </mxCell>
+        <mxCell id="QIGf7Q8Ob2mPMO-0KhZR-7" value="Receber Resultado da Análise" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="280" y="160" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="QIGf7Q8Ob2mPMO-0KhZR-8" value="Exibir Resultado da Análise" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="280" y="230" width="130" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="QIGf7Q8Ob2mPMO-0KhZR-9" value="Especialista" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="60" y="230" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="QIGf7Q8Ob2mPMO-0KhZR-10" value="Sistema" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="50" y="330" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="QIGf7Q8Ob2mPMO-0KhZR-11" value="Armazenar Imagens com Condicionamento" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="290" y="350" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="QIGf7Q8Ob2mPMO-0KhZR-12" value="Verificar Qualidade da Imagem" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="470" y="15" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="QIGf7Q8Ob2mPMO-0KhZR-13" value="Usar ChatBot para Dúvidas" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="460" y="105" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="QIGf7Q8Ob2mPMO-0KhZR-14" value="&lt;span id=&quot;docs-internal-guid-27046026-7fff-7f53-69b8-0fba0f07b631&quot; style=&quot;font-size:10.5pt;font-family:Roboto,sans-serif;color:#000000;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;&quot;&gt;&amp;nbsp;Cadastrar lesões&lt;/span&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="460" y="200" width="120" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="QIGf7Q8Ob2mPMO-0KhZR-16" value="&lt;span id=&quot;docs-internal-guid-27046026-7fff-7f53-69b8-0fba0f07b631&quot; style=&quot;font-size: 10.5pt; font-family: Roboto, sans-serif; color: rgb(0, 0, 0); background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;&quot;&gt;&amp;nbsp;Listar lesões&lt;/span&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="460" y="260" width="120" height="50" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
